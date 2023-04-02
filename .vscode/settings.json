@@ -4,5 +4,6 @@
     "*.jsx": "javascriptreact",
     "iostream": "cpp",
     "ostream": "cpp"
-  }
+  },
+  "cSpell.words": ["Bruteforce"]
 }
